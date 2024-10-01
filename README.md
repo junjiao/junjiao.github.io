@@ -1,2 +1,2 @@
-# wjj.github.io
+# junjiao.github.io
 personal homepage
